@@ -1,8 +1,11 @@
 ![Header](./github-header-image.png)
 
+<br/>
 
-### Welcome to my github page!
+## Welcome to my github page!
 
+<br/>
+<br/>
 
 
 [![ManuBeni GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni&hide=issues,stars)](https://github.com/ManuBeni/github-readme-stats$hide=issues)
