@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I'm Manuel, and I'm a design-oriented Full Stack Web Developer. Welcome to my github page!
+## I'm Manuel, and I'm a design-oriented Full Stack Web Developer. Welcome to my github page!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni)](https://github.com/anuraghazra/github-readme-stats)
 
