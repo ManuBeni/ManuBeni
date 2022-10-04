@@ -2,7 +2,7 @@
 
 #### I'm Manuel, and I'm a design-oriented Full Stack Web Developer. Welcome to my github page!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni&hide=issues,stars)](https://github.com/ManuBeni/github-readme-stats$hide=issues)
+[![ManuBeni GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni&hide=issues,stars)](https://github.com/ManuBeni/github-readme-stats$hide=issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuBeni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,6 +17,8 @@ Contact me:
 #### Projects:
 
 #### Athens
+
+<img src="https://user-images.githubusercontent.com/85205823/192325244-1e46ba81-e6da-4f26-b3f0-ff3fd068a8eb.gif" width="600">
 
 
 My tech stack: 
