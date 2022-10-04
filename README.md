@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni&hide=issues,stars)](https://github.com/ManuBeni/github-readme-stats$hide=issues)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuBeni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ManuBeni/ManuBeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
