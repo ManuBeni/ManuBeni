@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##I'm Manuel, and I'm a design-oriented Full Stack Web Developer. Welcome to my github page!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ManuBeni/ManuBeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
