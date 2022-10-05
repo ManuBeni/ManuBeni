@@ -2,13 +2,13 @@
 
 <br/>
 
-# Welcome to my github page!
-
-<br/>
-
 I'm a web oriented software developer with essential knowledge in development, user interfaces design and deployment, always eager to learn the latest and most suitable technologies for the job.
+<br/>
+<br/>
+Currently looking for my first job on the IT world!
 
-Currently Working on: Personal Portfolio.
+- 🔭 Currently Working on my Personal Portfolio.
+- 🌱 I’m learning Typescript and Vite.
 
 <br/>
 
@@ -26,6 +26,7 @@ Currently Working on: Personal Portfolio.
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
+<br/>
 
 ## Contact me: 
 
@@ -36,7 +37,7 @@ Currently Working on: Personal Portfolio.
 
 
 
-
+<br/>
 <br/>
 <br/>
 
