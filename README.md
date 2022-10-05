@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+
+## Welcome to my GitHub page!
 <br/>
 
 I'm a web oriented software developer with essential knowledge in development, user interfaces design and deployment, always eager to learn the latest and most suitable technologies for the job.
