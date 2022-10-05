@@ -2,12 +2,17 @@
 
 <br/>
 
-## Welcome to my github page!
+# Welcome to my github page!
 
 <br/>
+
+I'm a web oriented software developer with essential knowledge in development, user interfaces design and deployment, always eager to learn the latest and most suitable technologies for the job.
+
+Currently Working on: Personal Portfolio.
+
 <br/>
 
-#### My tech stack: 
+## My tech stack: 
 
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -22,6 +27,18 @@
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 </br>
 
+## Contact me: 
+
+
+<a href="https://www.linkedin.com/in/manuel--benitez">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>  <a href="mailto:manubeni0498@gmail.com">  <img width="60" height="53" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"> </a>
+
+
+
+
+<br/>
+<br/>
 
 [![ManuBeni GitHub stats](https://github-readme-stats.vercel.app/api?username=ManuBeni&hide=issues,stars)](https://github.com/ManuBeni/github-readme-stats$hide=issues)
 
@@ -29,14 +46,7 @@
 
 <br/>
 
-Contact me: 
 
-
-<a href="https://www.linkedin.com/in/manuel--benitez">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
-
-<br/>
 
 ### Projects:
 
