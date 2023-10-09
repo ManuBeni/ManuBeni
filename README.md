@@ -9,8 +9,8 @@ I'm a web oriented software developer with essential knowledge in development, u
 <br/>
 Currently looking for my first job on the IT world!
 
-- 🔭 Currently Working on my Personal Portfolio.
-- 🌱 I’m learning Typescript and Vite.
+- 🔭 Currently Working on a Custom Cake Builder Web App for a local bakery.
+- 🌱 I’m learning Typescript and Vite, as well as Design principles.
 
 <br/>
 
