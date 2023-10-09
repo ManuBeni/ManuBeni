@@ -12,6 +12,8 @@ Currently looking for my first job on the IT world!
 - 🔭 Currently Working on a Custom Cake Builder Web App for a local bakery.
 - 🌱 I’m learning Typescript and Vite, as well as Design principles.
 
+- ## Portfolio: <a href="https://www.linkedin.com/in/manuel--benitez">Click me!<a/>
+
 <br/>
 
 ## My tech stack: 
