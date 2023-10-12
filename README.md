@@ -32,7 +32,7 @@ Currently looking for my first job on the IT world!
 </br>
 <br/>
 
-## Contact me: 
+## Contact me:
 
 
 <a href="https://www.linkedin.com/in/manuel--benitez">
