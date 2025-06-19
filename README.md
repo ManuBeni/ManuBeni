@@ -4,13 +4,9 @@
 ## Welcome to my GitHub page!
 <br/>
 
-I'm a web oriented software developer with essential knowledge in development, user interfaces design and deployment, always eager to learn the latest and most suitable technologies for the job.
+I'm a web oriented software developer with essential knowledge in development, user interfaces design and deployment, bash and backend technologies. I also do AI based projects.
 <br/>
 <br/>
-Currently looking for my first job on the IT world!
-
-- 🔭 Currently Working on a Custom Cake Builder Web App for a local bakery.
-- 🌱 I’m learning Typescript and Vite, as well as Design principles.
 
 ## Portfolio: <a href="https://www.linkedin.com/in/manuel--benitez">Click me!<a/>
 
