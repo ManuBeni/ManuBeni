@@ -58,10 +58,6 @@ I'm a web oriented software developer with essential knowledge in development, u
 </a>
 <br/>
 
-### Dog Breed Finder
-
-https://user-images.githubusercontent.com/18317864/214655314-5d5ebc5d-f71e-40ae-ad1f-958f36d1af4f.mp4
-
 
 
 
